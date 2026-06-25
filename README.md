@@ -1,3 +1,3 @@
 personal website
 
-licence - MIT
+licenced by <a href="./LICENSE">MIT</a>
